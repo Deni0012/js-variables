@@ -2,9 +2,9 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-const myName = "Denise Di Genni";
+const Name = "Denise Di Genni";
 
-console.log(myName);
+console.log(Name);
 
 
 // 2. Tipi primitivi
