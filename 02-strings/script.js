@@ -3,6 +3,10 @@
 // Stampa il valore di nome nella console.
 
 const myName = "Denise Di Genni";
+
+console.log(myName);
+
+
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
